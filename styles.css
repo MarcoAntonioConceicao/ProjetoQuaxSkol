@@ -257,7 +257,7 @@ body {
    SOBRE ARENA
 ============================================================ */
 .about-section {
-    background: white;
+    background: #f2f3f9;
     padding: 120px 40px;
 }
 
@@ -934,3 +934,4 @@ body {
         height: 11px;
     }
 }
+
